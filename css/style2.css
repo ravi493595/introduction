@@ -1,0 +1,31 @@
+/***************TAG SELECTOR************************/
+h1 {
+    color: rgb(233, 13, 13);
+    font-size:200px;
+}
+
+img:hover {
+    background-color: rgb(28, 255, 3);
+}
+
+
+/*************************CLASS SELECTOR*************/
+
+.bacon {
+    background-color: red;
+}
+.broccoli {
+    background-color: green;
+}
+.circular{
+    border-radius: 100px;
+}
+
+/*************************ID SELECTOR*************/
+
+#heading{
+    color: rgba(68, 105, 105, 0.469);
+}
+/* #big{   do not more than one id in one element but we can use in class
+    font-size: 1000px;
+} */
